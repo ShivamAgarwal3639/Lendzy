@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.contactd {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 5vw;
+  font-weight: bold;
+  text-align: center;
+  margin: 10vh;
+  color: #353a47;
+}
+.contactb {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #353a47;
+  font-size: 1.7vw;
+  padding: 0 10vw 0 10vw;
+  margin: 0 10vw;
+}
+.mail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10vh;
+  font-size: 2vw;
+  color: #fe7977;
+}
+.clogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10vh;
+}
+
+.clogo img {
+  height: 10vh;
+}
